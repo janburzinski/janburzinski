@@ -1,3 +1,5 @@
+
+Wöchentliche Statistik:
 <!--START_SECTION:waka-->
 
 ```txt
