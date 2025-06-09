@@ -3,13 +3,13 @@ Wöchentliche Statistik:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2025 - To: 06 June 2025
+From: 31 May 2025 - To: 07 June 2025
 
-TypeScript   14 hrs 32 mins  ███████████████████▒░░░░░   77.59 %
-Python       1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-Java         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Bash         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Svelte       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+TypeScript   12 hrs 9 mins   ██████████████████░░░░░░░   72.06 %
+Python       1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+Java         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Bash         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Svelte       36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
