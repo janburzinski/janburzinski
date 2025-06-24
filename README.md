@@ -3,13 +3,13 @@ Wöchentliche Statistik:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2025 - To: 21 June 2025
+From: 15 June 2025 - To: 22 June 2025
 
-TypeScript    15 hrs 57 mins  █████████████▓░░░░░░░░░░░   54.71 %
-Java          5 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
-C             4 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
-Bash          1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Markdown      50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+TypeScript    15 hrs 49 mins  █████████████▓░░░░░░░░░░░   54.76 %
+C             7 hrs           ██████░░░░░░░░░░░░░░░░░░░   24.26 %
+Java          3 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+Markdown      44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Bash          40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
