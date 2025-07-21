@@ -3,13 +3,13 @@ Wöchentliche Statistik:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2025 - To: 19 July 2025
+From: 13 July 2025 - To: 20 July 2025
 
-TypeScript     20 hrs 57 mins  ██████████████████████░░░   87.41 %
-Svelte         1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-JSON           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Other          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Markdown       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+TypeScript     22 hrs 20 mins  █████████████████████▓░░░   86.84 %
+Svelte         1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+Bash           36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+JSON           36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Markdown       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
