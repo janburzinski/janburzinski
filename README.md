@@ -1,6 +1,6 @@
 # Jan Burzinski
 
-Computer Science student at TU Berlin. TypeScript + Go.
+Computer Science student at TU Berlin. 
 
 🌐 [janburzinski.de](https://janburzinski.de)
 
